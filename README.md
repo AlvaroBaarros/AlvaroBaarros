@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A80030,100:1a1a2e&height=220&section=header&text=Alvaro%20Barros&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=debian%20%E2%80%A2%20Data%20Analyst%20%26%20Developer&descAlignY=58&descSize=20" width="100%" alt="Alvaro Barros"/>
+<img src="./assets/header.svg" width="100%" alt="Alvaro Barros"/>
 
 <a href="https://github.com/AlvaroBaarros">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A80030&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Alvaro+%F0%9F%91%8B;Data+Analyst+%7C+Desenvolvedor;Python+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+PHP;Criador+do+Raffles+System+%F0%9F%8E%9F%EF%B8%8F" alt="Typing SVG"/>
@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/📍-Brasil-009C3B?style=flat-square" alt="Brasil"/>
-<img src="https://komarev.com/ghpvc/?username=AlvaroBaarros&color=A80030&style=flat-square&label=visitas" alt="visitas"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AlvaroBaarros.AlvaroBaarros&left_text=visitas&left_color=%231a1a2e&right_color=%23A80030" alt="visitas"/>
 
 </div>
 
@@ -86,6 +86,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:A80030&height=120&section=footer" width="100%" alt=""/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
